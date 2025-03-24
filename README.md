@@ -5,12 +5,12 @@
 ---
 
 ## ⚡ Features
-✅ Fetches **WHOIS details** (Org, Country, CIDR, etc.)
-✅ Runs **Reverse DNS & NSLookup** for domain info
-✅ Queries **IPinfo API** for ISP, ASN, and location
-✅ Detects **the correct WHOIS registry (ARIN, RIPE, APNIC, etc.)**
-✅ Formats output in a **clean table** using `pandas`
-✅ **Blacklist support** – maintain a list of suspicious IPs
+- ✅ Fetches **WHOIS details** (Org, Country, CIDR, etc.)
+- ✅ Runs **Reverse DNS & NSLookup** for domain info
+- ✅ Queries **IPinfo API** for ISP, ASN, and location
+- ✅ Detects **the correct WHOIS registry (ARIN, RIPE, APNIC, etc.)**
+- ✅ Formats output in a **clean table** using `pandas`
+- ✅ **Blacklist support** – maintain a list of suspicious IPs
 
 ---
 
